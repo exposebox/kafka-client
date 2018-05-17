@@ -16,6 +16,6 @@
     "bluebird": "^3.5.1",
     "kafka-node": "^2.6.1",
     "signal-exit": "^3.0.2",
-    "underscore": "latest"
+    "underscore": "^1.9.0"
   }
 }
