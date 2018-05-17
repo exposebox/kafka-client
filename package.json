@@ -1,0 +1,21 @@
+{
+  "name": "kafka-client",
+  "version": "1.0.0",
+  "description": "Yet another kafka client for node JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exposebox/kafka-client.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exposebox/kafka-client/issues"
+  },
+  "homepage": "https://github.com/exposebox/kafka-client#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "kafka-node": "^2.6.1",
+    "signal-exit": "^3.0.2",
+    "underscore": "latest"
+  }
+}
